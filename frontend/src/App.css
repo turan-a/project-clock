@@ -1,0 +1,18 @@
+div.time {
+    height: 50em;
+    position: relative;
+ }
+div.time h1 {
+    
+    color : rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 400%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+
